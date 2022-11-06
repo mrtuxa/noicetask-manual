@@ -26,6 +26,12 @@ var NAVTREE =
 [
   [ "noicetask", "index.html", [
     [ "Data Structures", "annotated.html", [
+      [ "Installation", "index.html#autotoc_md0", [
+        [ "Requirements", "index.html#autotoc_md1", null ]
+      ] ],
+      [ "Features", "index.html#autotoc_md2", null ],
+      [ "Usage/Examples", "index.html#autotoc_md3", null ],
+      [ "Contributing", "index.html#autotoc_md4", null ],
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
       [ "Data Fields", "functions.html", [
